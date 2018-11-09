@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLauncher", "UnityLauncher\UnityLauncher.csproj", "{F6161CD5-32B8-4205-BD35-9EC85D16721B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6161CD5-32B8-4205-BD35-9EC85D16721B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6161CD5-32B8-4205-BD35-9EC85D16721B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6161CD5-32B8-4205-BD35-9EC85D16721B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6161CD5-32B8-4205-BD35-9EC85D16721B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2088C782-1DA9-45E6-A3A1-9F7FF203C64E}
+	EndGlobalSection
+EndGlobal
